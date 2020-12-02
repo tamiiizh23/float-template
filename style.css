@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+.Container {
+  width: 900px;
+  
+  margin: 0 auto;
+}
+
+.navi {
+  height: 100px;
+  background-color: #fff;
+}
+
+.head {
+  margin-left: 40px;
+  padding: 5px 16px;
+}
+.photo {
+  margin-top: -20px;
+}
+ul#list-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-top: -60px;
+}
+
+ul#list-nav li {
+  float: right;
+}
+
+ul#list-nav li a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.sidebar {
+  height: 400px;
+  background-color: #2c2c2c;
+}
+.img-container {
+  float: left;
+  padding-top: 20px;
+  
+ 
+}
+.para {
+  float: right;
+  word-spacing: 1px;
+  margin-top: 20px;
+  margin-right: 80px;
+  color: white;
+  line-height: 1.1;
+  font-size: 0.675em;
+  text-shadow: black;
+}
+.welcome {
+  float: left;
+  clear: both;
+  margin-left: 50px;
+  color: white;
+  top: 10px;
+}
+
+.content {
+  height: 280px;
+  background-color: #000000;
+  color: #fff;
+  clear: left;
+
+}
+.middle{
+    
+  float: left;
+  padding: 5px;
+ color: white;
+}
+button{
+    background-color: tomato;
+    color: white;
+}
+
+.footer {
+  height: 350px;
+  background-color: #2c2c2c
+  
+}
+.bottom{
+    margin-left: 50px;
+    float: left;
+    color: white;
+    
+    
+}
+.bottom-left{
+      float: left;
+      margin-left: 15px;
+      margin-top: 60px;
+      font-size: 0.675em;
+}
+.bot-lft{
+    color: white;
+    
+}
+.bot-bot{
+    color: rgb(206, 201, 201);
+}
+.order-left{
+    margin-left: -25px;
+    color: rgb(207, 38, 8);
+    line-height: 1.5;
+}
+.order-right{
+    float: right;
+    margin-top: -64px;
+    margin-left: 60px;
+    color: rgb(207, 38, 8);
+    line-height: 1.5;
+}
+.bottom-right{
+   
+    color: white;
+    float: left;
+    margin-left: 50px;
+}
+.last{
+    height: 100px;
+    background-color: white;
+}
+.copy{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.icon{
+    float: right;
+    color: tomato;
+    margin-right: 50px;
+    margin-top: 30px;
+}
